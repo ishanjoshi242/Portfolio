@@ -1,13 +1,6 @@
 # 🌟 Portfolio Website
 
-A modern, responsive portfolio website showcasing my projects, skills and professional journey. Built with pure HTML, CSS and JavaScript.
-
-[![GitHub Pages](https://img.shields.io/badge/View-Live%20Demo-brightgreen?style=for-the-badge)](https://ishanjoshi242.github.io/Portfolio/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-
-<div align="center">
-  <img src="https://placehold.co/1920x1080?text=Portfolio+Screenshot" alt="Modern portfolio website with dark/light theme toggle, project cards and animated sections" width="600"/>
-</div>
+A modern, responsive portfolio website showcasing my projects, skills and professional journey. Built with pure HTML, CSS and JavaScript and integrated with React.
 
 ## ✨ Features
 
